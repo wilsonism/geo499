@@ -33,15 +33,15 @@ There are several required articles and book chapters for this course, and stude
 ### Assessment overview.
 
 Students will be assessed in this course using a variety of methods. Participation in and preparations for seminar are fundamental to successful completion of the course. Assessment is distributed in the following ways, for a total of 100 points:
-* Participation and preparedness (40 points)
-* Reaction essays (30 points)
-* Final paper (30 points)
+* Participation and preparedness (30 points)
+* Professional development portfolio (15 points)
+* Research project (55 points)
 
 Final grades will be based on a standard scale, i.e., A=90-100%; B=80-89%; C=70-79%; D=60-69%; E=less than 60%. Grades for all assignments will be available via the University of Kentucky Canvas system (http://uk.instructure.com).
 
 ### Participation and preparedness.
 
-As a required course for all entering graduate students, this course is meant to accompany the variety of activities that help students engage in department and College life. Each week, students will be asked to prepare to engage in seminar discussions and take an active role in these discussions: including asking questions, articulating their understanding of the texts, and make connections to other students’ ideas and to other texts of the course. Students will also attend department colloquia and other activities meant to help new students connect with the department. We will use Canvas to remind students of activities and provide discussion boards to share questions and resources. Students should plan to schedule extended time to read the weekly assigned texts. Students should prepare contributions to seminars in the form of questions and clarifications, ruminations on selected passages, and select additional material to share in the course of our discussions. All students should contribute to seminar discussions. If students find this to be difficult, they should schedule time to speak with the instructor.
+As a required course for all geography students, this course is meant to accompany the variety of activities that help students engage in department and College life. Each week, students will be asked to prepare to engage in seminar discussions and take an active role in these discussions: including asking questions, articulating their understanding of the texts, and make connections to other students’ ideas and to other texts of the course. Students will complete assignments related to weekly discussions and development of their portfolio and research project. Students will also attend department colloquia and other activities meant to help new students connect with the department. We will use Canvas to remind students of activities and provide discussion boards to share questions and resources. All students should contribute to seminar discussions. If students find this to be difficult, they should schedule time to speak with the instructor.
 
 ### Reaction essays.
 
