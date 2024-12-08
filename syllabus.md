@@ -22,7 +22,7 @@ This course is designed as a capstone experience for geographic study. This cour
 
 ## III. Format
 
-This course will be composed entirely of seminar discussions. These discussions will occur in-person or, infrequently as necessary, via Zoom.
+This course will be composed entirely of seminar discussions centered on geographic research. These discussions will occur in-person or, infrequently as necessary, via Zoom.
 
 ## IV. Required Texts
 
@@ -41,15 +41,15 @@ Final grades will be based on a standard scale, i.e., A=90-100%; B=80-89%; C=70-
 
 ### Participation and preparedness.
 
-As a required course for all geography students, this course is meant to accompany the variety of activities that help students engage in department and College life. Each week, students will be asked to prepare to engage in seminar discussions and take an active role in these discussions: including asking questions, articulating their understanding of the texts, and make connections to other students’ ideas and to other texts of the course. Students will complete assignments related to weekly discussions and development of their portfolio and research project. Students will also attend department colloquia and other activities meant to help new students connect with the department. We will use Canvas to remind students of activities and provide discussion boards to share questions and resources. All students should contribute to seminar discussions. If students find this to be difficult, they should schedule time to speak with the instructor.
+As a required course for all geography students, this course is meant to accompany the variety of activities that help students engage in department and College life. Each week, students will be asked to prepare to engage in seminar discussions and take an active role in these discussions: including asking questions, articulating their understanding of the texts, and make connections to other students’ ideas and to other texts and activities of the course. Students will complete assignments related to weekly discussions and development of their portfolio and research project. Students will also attend department colloquia and other activities meant to help students connect with the department. We will use Canvas to remind students of activities and provide discussion boards to share questions and resources. All students should contribute to seminar discussions. If students find this to be difficult, they should schedule time to speak with the instructor.
 
-### Reaction essays.
+### Profesional development portfolio.
 
-There will be multiple reaction essays as assigned by the instructor. Some of these will be short responses that are assigned, handwritten, and collected during seminar. Others will be assigned as homework and should be less than two-pages, doubled spaced, with proper attributions of source material.
+In consultation with the instructor, students will develop a portfolio of materials aligned with their professional development goals. This may include a cover letter, resume, letters of inquiry, and/or a portfolio website. Students will revise these documents following peer and instructor feedback.
 
-### Final paper.
+### Research project.
 
-The final paper must be submitted by the scheduled due date for full-credit. The paper should be around 15 pages (no more than 20 pages), double-spaced, and examine a single concept from the seminar in greater detail, using additional, supplementary reading. A 250-word abstract will be due in advance that will be shared with the entire class.
+The class is organized around students proposing, conducting, undertaking, and communicating an independent geographic research project. The goals of the project include learning research methods, researching a topic of interest, improving upon writing skills, and improving upon presentation skills. Weeks 1-6 will focus on research design as students develop research questions and a proposal. During weeks 7-11, students will conduct research and schedule individual meetings with the instructor to check in about progress. Beginning in week 12, students will begin analyzing collected data, writing a final report, and preparing a 10-minute presentation. The final paper must include a literature review, description of methods, analysis of data, and summary of results. It should be at least 4,500 words in length and have undergone revisions over the course of the semester. Additional requirements will vary according to your research approach and will be negotiated with the instructor. For example, a qualitative human geography project might require a certain number of interviews or surveys, while a quantitative GIS project might require particular types of data collection and analyses.
 
 ## VI. Important Notices
 
@@ -61,8 +61,8 @@ Students should review the course syllabus carefully, paying special attention t
 
 Attendance is not taken nor required, however, note that:
 1. the majority of a student’s grade depends on their preparation for, and engagement in, seminar;
-2. student success in pushing their disciplinary knowledge largely depends on the effort they apply to supplement the assigned readings with further reading;
-3. in the event of an absence, students should consult the syllabus and their peers regarding discussions they have missed.
+2. student success in the full cycle of research largely depends on the effort they apply;
+3. in the event of an absence, students should consult the syllabus and their peers regarding discussions and activities they have missed.
 
 ### Be in contact.
 
