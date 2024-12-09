@@ -5,4 +5,4 @@ University of Kentucky
 
 [Syllabus](syllabus.md)
 
-[Reading List](https://wilsonism.github.io/geo499/syllabus.html#vii-schedule)
+[Schedule](https://wilsonism.github.io/geo499/syllabus.html#vii-schedule)
