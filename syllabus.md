@@ -20,7 +20,7 @@ This course is designed as a capstone experience for geographic study, to help s
 * Communicate research findings to a professional audience; and
 * Strengthen professional development skills.
 
-The goals of this course has gone through development alongside the [TEK Skills](https://tek.uky.edu/) framework:
+The goals of this course have been developed alongside the [TEK Skills](https://tek.uky.edu/) framework:
 * Conduct **collaborative** geographic research;
 * Identify and analyze academic literature in geography from **multiple viewpoints**;
 * **Reflect** on and synthesize knowledge from geography coursework and experiences; and
