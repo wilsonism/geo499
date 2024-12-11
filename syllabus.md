@@ -1,5 +1,5 @@
 # Geography 499-001:<br>Senior Research Seminar<br>Spring 2025 DRAFT
-Lectures: T 3:30-6pm, Miller Hall Room 6 ("Raitz Library")
+Lectures: T 3:30-6pm, Funkhouser Building Room 306A
 
 **[Prof. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
@@ -12,16 +12,15 @@ Course is intended to provide a capstone experience in geographical research and
 
 ## II. Learning Objectives
 
-This course is designed as a capstone experience for geographic study. This course is designed to help students (following **TEK Skills**):
+This course is designed as a capstone experience for geographic study, to help students strengthen their professional skills (following **TEK Skills**):
 * Conduct **collaborative** geographic research;
 * Identify and analyze academic literature in geography from **multiple viewpoints**;
-* Synthesize knowledge learned and **reflect on growth** from prior geography coursework;
-* **Communicate** research findings to a professional audience; and
-* Strengthen professional development skills.
+* **Reflect** on and synthesize knowledge from geography coursework and experiences; and
+* **Communicate** research findings to a professional audience.
 
 ## III. Format
 
-This course will be composed entirely of seminar discussions centered on geographic research. These discussions will occur in-person or, infrequently as necessary, via Zoom.
+This course will be composed entirely of seminar discussions centered on geographic research. These discussions will occur in-person or, infrequently as necessary, via Zoom. There will be fieldwork that will request students to visit different resources on campus and in the city of Lexington.
 
 ## IV. Required Texts
 
