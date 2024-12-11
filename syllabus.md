@@ -12,12 +12,11 @@ Course is intended to provide a capstone experience in geographical research and
 
 ## II. Learning Objectives
 
-This course is designed as a capstone experience for geographic study. This course is designed to help students:
-* Gain practical experience in conducting independent, geographic research;
-* Identify, communicate, and explore geographic research questions by designing and conducting an independent research project;
-* Demonstrate the ability to read, assess, and synthesize academic literature in geography;
-* Synthesize knowledge learned from prior geography coursework;
-* Communicate research findings to a professional audience; and
+This course is designed as a capstone experience for geographic study. This course is designed to help students (following **TEK Skills**):
+* Gain practical experience in conducting **collaborative** geographic research;
+* Identify and analyze academic literature in geography from **multiple viewpoints**;
+* Synthesize knowledge learned and **reflect on growth** from prior geography coursework;
+* **Communicate** research findings to a professional audience; and
 * Strengthen professional development skills.
 
 ## III. Format
