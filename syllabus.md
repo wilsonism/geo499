@@ -10,7 +10,7 @@ Lectures: T 3:30-6pm, Funkhouser Building Room 306A
 
 Course is intended to provide a capstone experience in geographical research and problem-solving through demonstrating students' ability to identify an appropriate research topic in geography; developing and implementing appropriate research strategy; and presenting research results. This course is a [Graduation Composition and Communication Requirement (GCCR)](https://catalogs.uky.edu/content.php?catoid=14&navoid=799#graduation-composition-and-communication-requirement) course in certain programs, and hence is not likely to be eligible for automatic transfer credit to UK.
 
-## II. Learning Objectives and Course Goals
+## II. Learning Objectives and Class Goals
 
 This course is designed as a capstone experience for geographic study, to help students:
 * Gain practical experience in conducting independent, geographic research;
@@ -20,9 +20,9 @@ This course is designed as a capstone experience for geographic study, to help s
 * Communicate research findings to a professional audience; and
 * Strengthen professional development skills.
 
-The goals of this course have been developed alongside the [TEK Skills](https://tek.uky.edu/) framework:
+The goals of this class have been developed alongside the [TEK Skills](https://tek.uky.edu/) framework:
 * Conduct **collaborative** geographic research;
-* Identify and analyze academic literature in geography from **multiple viewpoints**;
+* Identify and analyze literature that advances **multiple** positions in academic debate;
 * **Reflect** on and synthesize knowledge from geography coursework and experiences; and
 * **Communicate** research findings to a professional audience.
 
