@@ -1,4 +1,4 @@
-# Geography 499-001:<br>Senior Research Seminar<br>Spring 2025 DRAFT
+# Geography 499-001:<br>Senior Research Seminar<br>Spring 2025
 Lectures: T 3:30-6pm, Funkhouser Building Room 306A
 
 **[Prof. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
